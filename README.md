@@ -1,8 +1,5 @@
 <h1 align="left">Hi 👋, I'm Tunç!</h1>
 <h3 align="left">Frontend Developer</h3>
-<ul>
-  <il>I'm currently working on <a href="https://scrimba.com/learn/frontend/" target="_blank" rel="noreferrer">Scrimba Frontend Career path!</a></il>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
